@@ -2,12 +2,13 @@ name: Geography
 favicon: null
 layout_spectrum: 0.20769102266058326
 typography_spectrum: 0.36217561457306147
+title: Jewish Geography
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-69432520-1
   facebook: null
   twitter: null
 opengraph:
