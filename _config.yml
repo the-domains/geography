@@ -1,0 +1,23 @@
+name: Geography
+favicon: null
+layout_spectrum: 0.20769102266058326
+typography_spectrum: 0.36217561457306147
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.48293870338238776
+  lightness: 0.13800685899332166
+  saturation: 0.12053181231021881
+  rhythmicContrast: 0.1195606377441436
+purpose: []
